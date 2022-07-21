@@ -1,4 +1,4 @@
-name: 'ahmadbuhari.github.io'
+name: 'Automatic build'
 on:
   push:
     branches:
