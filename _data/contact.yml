@@ -12,7 +12,7 @@
   noblank: true            # open link in current tab
 -
   type: award
-  icon: 'fas fas-award'
+  icon: 'fas fa-award'
   noblank: true
   url: 'https://www.credly.com/users/ahmad-buhari/badges'
 
