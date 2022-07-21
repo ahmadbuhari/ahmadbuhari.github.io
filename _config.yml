@@ -32,7 +32,7 @@ description: Docs                         # used by seo meta and the atom feed
 url: 'https://ahmadbuhari.github.io'
 
 github:
-# username: ahmad-buhari             # change to your github username
+  username: ahmad-buhari
 
 #twitter:
 #  username: twitter_username            # change to your twitter username
