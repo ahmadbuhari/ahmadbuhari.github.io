@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://media-exp1.licdn.com/dms/image/C5603AQH4LamC-EBIiA/profile-displayphoto-shrink_400_400/0/1622387871253?e=1663200000&v=beta&t=oK1htlIS4lLBRVxfq89bWubG_7FxdxzZPTgC2lG5Kjc'
+img_cdn: #'https://media-exp1.licdn.com/dms/image/C5603AQH4LamC-EBIiA/profile-displayphoto-shrink_400_400/0/1622387871253?e=1663200000&v=beta&t=oK1htlIS4lLBRVxfq89bWubG_7FxdxzZPTgC2lG5Kjc'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media-exp1.licdn.com/dms/image/C5603AQH4LamC-EBIiA/profile-displayphoto-shrink_400_400/0/1622387871253?e=1663200000&v=beta&t=oK1htlIS4lLBRVxfq89bWubG_7FxdxzZPTgC2lG5Kjc
+avatar: #https://media-exp1.licdn.com/dms/image/C5603AQH4LamC-EBIiA/profile-displayphoto-shrink_400_400/0/1622387871253?e=1663200000&v=beta&t=oK1htlIS4lLBRVxfq89bWubG_7FxdxzZPTgC2lG5Kjc
 
 # boolean type, the global switch for ToC in posts.
 toc: true
