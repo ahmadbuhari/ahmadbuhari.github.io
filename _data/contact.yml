@@ -12,8 +12,7 @@
   noblank: true            # open link in current tab
 -
   type: award
-  icon: 'fa-solid fa-award'
-  noblank: true
+  icon: 'fas fa-award'
   url: 'https://www.credly.com/users/ahmad-buhari/badges'
 
 # Uncomment and complete the url below to enable more contact options
