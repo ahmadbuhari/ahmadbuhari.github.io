@@ -2,8 +2,8 @@
 title: Learning Python
 author: Ahmad Buhari
 date: 2022-06-01 14:10:00 +0800
-categories: [Python, Tutorial]
-tags: [writing]
+categories: [python]
+tags: [python, tutorial]
 render_with_liquid: false
 ---
 
