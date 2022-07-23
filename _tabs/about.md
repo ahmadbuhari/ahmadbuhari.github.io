@@ -12,8 +12,8 @@ order: 5
 
 ## Things I'm doing
 ---
-- Lately, I've been playing with Microsoft's PowerPlatform suite to automate some of the data entry for our compliance analysis metrics.
-- Writing a quick cleanup script for the log data to be ingested for PowerBi 
+- Updating my website to use the [Jekyll](https://jekyllrb.com/) platform.
+- Writing a quick cleanup script for the log data to be ingested for PowerBi.
 
 ## Lab Enviroment
 ---
